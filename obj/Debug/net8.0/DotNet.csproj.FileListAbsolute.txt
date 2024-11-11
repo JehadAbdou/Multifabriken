@@ -1,0 +1,14 @@
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\DotNet.AssemblyInfoInputs.cache
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\DotNet.AssemblyInfo.cs
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\DotNet.csproj.CoreCompileInputs.cache
+C:\Users\jehad\OneDrive\Desktop\DotNet\bin\Debug\net8.0\DotNet.exe
+C:\Users\jehad\OneDrive\Desktop\DotNet\bin\Debug\net8.0\DotNet.deps.json
+C:\Users\jehad\OneDrive\Desktop\DotNet\bin\Debug\net8.0\DotNet.runtimeconfig.json
+C:\Users\jehad\OneDrive\Desktop\DotNet\bin\Debug\net8.0\DotNet.dll
+C:\Users\jehad\OneDrive\Desktop\DotNet\bin\Debug\net8.0\DotNet.pdb
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\DotNet.dll
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\refint\DotNet.dll
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\DotNet.pdb
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\DotNet.genruntimeconfig.cache
+C:\Users\jehad\OneDrive\Desktop\DotNet\obj\Debug\net8.0\ref\DotNet.dll
